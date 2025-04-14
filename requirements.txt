@@ -1,6 +1,6 @@
 langchain==0.2.16
 langchain-google-genai==1.0.8
 langchain-community==0.2.16
-chromadb==0.5.3
+chromadb
 beautifulsoup4==4.12.3
 numpy==1.26.4
